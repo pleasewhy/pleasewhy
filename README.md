@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on weixin
+- 🌱 I’m currently learning Rust、C++，RISCV，OS
+- 
 <!--
 **pleasewhy/pleasewhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
