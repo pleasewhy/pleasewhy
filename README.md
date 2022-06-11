@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on weixin
 - 🌱 I’m currently learning Rust、C++，RISCV，OS
-- 
+![](https://github-readme-stats.vercel.app/api?username=pleasewhy)
 <!--
 **pleasewhy/pleasewhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
