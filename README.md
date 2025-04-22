@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Rust、C++，RISCV，OS
+- 🔭 ​Out of work
+- 🌱 I’m currently learning robot
 
 ![](https://github-readme-stats.vercel.app/api?username=pleasewhy)
 <!--
