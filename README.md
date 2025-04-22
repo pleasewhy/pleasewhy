@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on weixin
+- 🔭 cqut cs -> WeChat Official Account recommended system -> unemployed
 - 🌱 I’m currently learning Rust、C++，RISCV，OS
 
 ![](https://github-readme-stats.vercel.app/api?username=pleasewhy)
